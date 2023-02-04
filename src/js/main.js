@@ -40,8 +40,8 @@ var sizeCM = sizePX * PX2CM;
 var index = Math.log(2*distPX/sizePX);
 
 var record = false;
-var timeLimitPlay = 3; // seconds
-var timeLimitInit = 1; // seconds
+var timeLimitPlay = 15; // seconds
+var timeLimitInit = 3; // seconds
 var timePlay = 0; // seconds
 var timeInit = timeLimitInit; // seconds
 
